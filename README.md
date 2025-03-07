@@ -1,5 +1,1 @@
-# Group2 Member:
-1. Bowen
-2. Wang Jing
-3. Hugo
-4. Stewart
+I create individual branch for everyone, please use it.
