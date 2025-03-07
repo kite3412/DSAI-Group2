@@ -1,6 +1,6 @@
 # Group2
 
-#Member:
+# Member:
 1. Bowen
 2. Wang Jing
 3. Hugo
