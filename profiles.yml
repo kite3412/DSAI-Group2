@@ -1,8 +1,0 @@
-olist_project:
-  outputs:
-    dev:
-      type: duckdb
-      path: C:\Users\hugoa\DSAI_MAIN\DSAI_project\olist.db
-      threads: 1
-
-  target: dev
